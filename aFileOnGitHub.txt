@@ -1,7 +1,8 @@
 First edit by *Ashish Tomer*
-<<<<<<< HEAD
+
 
 Hello edited by neha !
-=======
+
 Second edit by *Ashish Tomer*
->>>>>>> Adding to github
+
+I accept your changes
